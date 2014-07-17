@@ -1,6 +1,6 @@
 {
   "name": "dance-party-drone",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Dance Party Drone!",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nikilster/dance-party-drone",
   "dependencies": {
+    "node-hue-api": "0.2.x",
     "ar-drone": "^0.3.2"
   }
 }
