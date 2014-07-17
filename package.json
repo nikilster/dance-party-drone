@@ -1,0 +1,22 @@
+{
+  "name": "dance-party-drone",
+  "version": "0.0.0",
+  "description": "Dance Party Drone!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikilster/dance-party-drone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikilster/dance-party-drone/issues"
+  },
+  "homepage": "https://github.com/nikilster/dance-party-drone",
+  "dependencies": {
+    "ar-drone": "^0.3.2"
+  }
+}
