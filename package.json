@@ -1,0 +1,12 @@
+{
+  "name": "DancingDrone",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-hue-api": "0.2.x",
+    "node-ar-drone": "felixge/node-ar-drone"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  }
+}
